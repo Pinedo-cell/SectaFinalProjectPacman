@@ -18,7 +18,9 @@ ________________________________________________________________________________
 # Second attempt to Reinforcement learning: 
 We tried to train the algorithm but we found some mistakes and errors during our training. 
 
-Second attempt has 4 different algorithms, the first one has reach almost 1.600.000 steps training and we found that it was bugged. 
+Second attempt has 4 different algorithms:
+
+The first one has reach almost 1.600.000 steps training and we found that it was bugged. 
 
 The second one was a fixed algorithm with the same bases as the previous one, but with less batch size and less steps. 
 
