@@ -33,3 +33,6 @@ ________________________________________________________________________________
 # Aditional features to our Reinforcement Learning work: 
 
 Apart of the second option we also implemented two other reinforcement learning methods: Deep Q-Learning and Double Q-Learning.
+The deep Q-Learning is implemented and explained on the folder SectaPacmanAditionalFeatures with our working code and explanation.
+The double Q-Learning is not implemented yet because of some errors at the implementation of the code, as the code is not implemented for the Pacman.
+Also we gathered all the colab implementations in the SectaPacmanColab folder. There is an environment to make Pacman OpenAI work.
