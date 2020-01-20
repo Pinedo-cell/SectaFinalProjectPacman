@@ -17,9 +17,13 @@ ________________________________________________________________________________
 
 # Second attempt to Reinforcement learning: 
 We tried to train the algorithm but we found some mistakes and errors during our training. 
+
 Second attempt has 4 different algorithms, the first one has reach almost 1.600.000 steps training and we found that it was bugged. 
+
 The second one was a fixed algorithm with the same bases as the previous one, but with less batch size and less steps. 
+
 The third one was an implementation of the algorithm using the ram of our Pc, instead of using the GPU to train our models.
+
 The fourth one was an implementation of the vanilla dqn method, that was trained with 10m of steps, and we obtain the best scores. 
 
 
