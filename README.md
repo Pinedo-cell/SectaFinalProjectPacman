@@ -31,3 +31,5 @@ The fourth one was an implementation of the vanilla dqn method, that was trained
 
 ___________________________________________________________________________________________________________________________________
 # Aditional features to our Reinforcement Learning work: 
+
+Apart of the second option we also implemented two other reinforcement learning methods: Deep Q-Learning and Double Q-Learning.
